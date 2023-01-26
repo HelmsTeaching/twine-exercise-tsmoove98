@@ -1,0 +1,105 @@
+:: StoryTitle
+The lion, the witch, and the search engine
+
+
+:: StoryData
+{
+  "ifid": "2A02C722-5570-4E96-B5DD-C309D84514F9",
+  "format": "Harlowe",
+  "format-version": "3.3.4",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: \ google2 {"position":"737.5,400","size":"100,100"}
+"When does jam expire?"
+
+A: 46 days after initial exposure 
+
+
+:: \ next2 {"position":"625,400","size":"100,100"}
+You reach behind the jars of jam and notice that there is a door handle to what could potentially be a portal to another world. 
+
+[[next2--next3]]
+
+[[google2--google3]] 
+
+
+:: Untitled Passage {"position":"675,275","size":"100,100"}
+
+Open a kitchen cabinet and pick up a jar of gooseberry jam. You take the jam out and feel that it is hard and probably expired
+
+[[next--> next2]]
+
+[[google--> google2]]
+
+
+
+:: google2--google3 {"position":"737.5,525","size":"100,100"}
+"Should I be suspicious of random door handles behind kitchen cabinets?"
+
+A: Maybe, but life is short 
+
+
+:: google4 {"position":"737.5,650","size":"100,100"}
+"What are the kidnapping rates in Narnia?"
+
+A: Higher than the kidnapping rates in Fort Worth
+
+
+:: google4--google5 {"position":"737.5,775","size":"100,100"}
+"Should lions be wise or talk?"
+
+A: Article: The dangers and benefits of psychedelics
+
+"How to survive war"
+
+A: Oh boy
+
+
+
+
+:: google5--google6 {"position":"737.5,900","size":"100,100"}
+"How do I kill an ogre?"
+
+A: Hide somewhere safe
+
+
+:: google7 {"position":"612.5,1025","size":"100,100"}
+"How do you make gooseberry jam?"
+
+
+
+
+:: next2--next3 {"position":"612.5,525","size":"100,100"}
+You turn the door handle and fall into Narnia like the british kids. The horse guy isn't around, so you look for the next best thing.
+
+[[ next3-->next4]]
+
+[[google3-->google4]]
+
+
+
+
+:: next4 {"position":"612.5,650","size":"100,100"}
+You find the wise talking lion who convinces you to go to war for a place you've been in for half an hour.
+
+[[next4-->next5]]
+
+[[google4--google5]] 
+
+
+
+:: next5 {"position":"612.5,775","size":"100,100"}
+You are on the frontlines aboslutely terrified as storybook beasts and creatures charge toward you with weapons and the lion is nowhere to found.
+
+[[next5-->next6]]
+
+[[google5--google6]]
+
+
+:: next6 {"position":"612.5,900","size":"100,100"}
+Against all odds, you prevail and win the war. You are crowned royalty and live out the rest of your days in the kingdom.
+
+[[google6-->google7]] 
